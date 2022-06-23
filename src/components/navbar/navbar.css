@@ -106,3 +106,7 @@ button.addSale:hover{
     background-color: rgb(255, 158, 112);
     border-color: rgb(255, 158, 112);
 }
+.name{
+    font: bold 24px / 28px Roboto, Tahoma, sans-serif;
+    color: blue;
+}

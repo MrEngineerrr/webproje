@@ -6,7 +6,7 @@ function Mainpage() {
         <div>
             <div className="container mlr-0 divFrame">
                 <div className="row">
-                    <img className="mainpageimg" src={require("./images/books.png")} alt="" />
+                    <img className="mainpageimg" src={require("./images/books.png")} alt="" /> 
                 </div>
                 <div className="row">
                     <a className="mar-pad-0 underLineNone productFrames  pFBG1" href="/child">
